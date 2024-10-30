@@ -1,0 +1,6 @@
+# nome | quantidade de testes | us de execucao
+
+sub_indireta.nasm 1 1000
+sub_if.nasm 2 1000
+diff.nasm 2 1000
+

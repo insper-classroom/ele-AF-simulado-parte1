@@ -1,0 +1,26 @@
+1. Determine qual seria o vetor de 20 bits a ser fornecido para a _ControlUnit_ para que o CPU realize uma operação "subw %A, %G, (%A), %B".
+
+
+
+
+
+
+2. Seria possível alterar essa CPU sem mudar o tamanho dos bits de instrução para que um valor seja carregado diretamente em 2 registradores? Em caso afirmativo, explique como seria feito. Em caso negativo, explique o porquê.
+
+
+
+
+
+
+3. Escreva a expressão para o sinal de load do registrador F em VHDL.
+
+
+
+
+
+
+4. Esta CPU modificada permite realizar saltos diretamente (em apenas 1 instrução) comparando dois valores diferentes de zero? Explique.
+
+
+
+
